@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "TR3DPFHV1": {
+      "app_id": "A06PFNG7N1E",
+      "IsDev": false,
+      "team_domain": "shukatsu-labo",
+      "team_id": "TR3DPFHV1"
+    }
+  },
+  "default": "shukatsu-labo"
+}

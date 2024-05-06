@@ -1,0 +1,3 @@
+Name: ExampleItem
+Price: 99.99
+Offer: True
